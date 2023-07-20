@@ -154,7 +154,7 @@ Feel free to check the [issues page](https://github.com/abdozayan12/REACT-CAPSTO
 
 ## 🙏 Acknowledgments
 
-- I would like to thank Microverse for this opportunity.
+- I would like to thank Microverse and [Nelson Sakwa en Behance](https://www.behance.net/sakwadesignstudio)(Original design idea).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
