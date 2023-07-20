@@ -161,7 +161,7 @@ Feel free to check the [issues page](https://github.com/abdozayan12/REACT-CAPSTO
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/abdozayan12/Bookstore/blob/Development/MIT.md) licensed.
+This project is [MIT](https://github.com/abdozayan12/REACT-CAPSTONE-PROJECT/blob/dev/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
