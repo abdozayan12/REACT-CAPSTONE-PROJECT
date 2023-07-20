@@ -8,6 +8,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -23,15 +24,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Bookstore] <a name="about-project"></a>
+# 📖 [#] <a name="about-project"></a>
 
->The Bookstore is a website that allow you to Display a list of books, Add a book, and Remove a selected book
+>The 
 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 <details>
   <summary>Client</summary>
@@ -49,6 +49,12 @@
 - [x] Use the basic CSS style for styling the components.
 
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +76,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:abdozayan12/Bookstore.git
+  git clone git@github.com:abdozayan12/REACT-CAPSTONE-PROJECT.git
 ```
 
 
@@ -133,7 +139,7 @@ npx eslint . --fix
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abdozayan12/Bookstore/issues).
+Feel free to check the [issues page](https://github.com/abdozayan12/REACT-CAPSTONE-PROJECT/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
