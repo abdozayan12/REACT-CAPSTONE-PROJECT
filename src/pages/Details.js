@@ -1,3 +1,7 @@
-const Details = () => <div>Details</div>;
+function Details() {
+  return (
+    <div>CountryDetails</div>
+  );
+}
 
 export default Details;
