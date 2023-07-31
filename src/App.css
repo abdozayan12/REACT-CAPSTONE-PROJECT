@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: #EC4C8A;
+  color: #fff;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: #6c6d22;
+}
+
+.navigation-icons {
+  background-color: #EC4C8A;
+  border: none;
+}
