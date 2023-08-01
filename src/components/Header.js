@@ -1,17 +1,21 @@
-import GoBack from '../assets/images/GoBack.png';
-import Mic from '../assets/images/Mic.png';
-import Settings from '../assets/images/Settings.png';
+import React from 'react';
+import { AiFillSetting } from 'react-icons/ai';
+import { BiMicrophone } from 'react-icons/bi';
+import icons8GoogleEarth from '../assets/icons8-google-earth.svg';
 
-const Header = () => (
-  <header>
-    <nav>
-      <button type="button" className="navigation-icons"><img src={GoBack} alt="Go back" /></button>
-      <h1><a href="https://www.google.com/">Header</a></h1>
-      <div>
-        <button type="button" className="navigation-icons"><img src={Mic} alt="Mic" /></button>
-        <button type="button" className="navigation-icons"><img src={Settings} alt="Settings" /></button>
+function Navbar() {
+  return (
+    <nav
+      className=" bg-main w-full h-16 flex items-center justify-around"
+      data-testid="nav"
+    >
+      <img src={icons8GoogleEarth} alt="google earth icon" className=" h-10" />
+      <p className=" font-bold">Countries Explorer</p>
+      <div className="flex">
+        <BiMicrophone className=" text-lg mr-2" />
+        <AiFillSetting className=" text-lg" />
       </div>
     </nav>
-  </header>
-);
-export default Header;
+  );
+}
+export default Navbar;
