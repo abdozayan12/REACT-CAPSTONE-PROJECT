@@ -9,6 +9,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [📹 The Video ](#-the-video-)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -26,7 +27,7 @@
 
 # 📖 [#] <a name="about-project"></a>
 
->The 
+>The Countries Explorer is a single-page application built with React. It fetches the data from the https://restcountries.com/ API and shows all the countries of the world. The homepage displays the country name, flag, and population for each country. When a user clicks on a country's card, they are taken to a detail page that shows more information about that country, such as its capital city, the Coat of arms of the country, and language
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -35,9 +36,8 @@
 
 <details>
   <summary>Client</summary>
-  <ul>
-    <li><a href="#">HTML</a></li>
-    <li><a href="#">CSS</a></li>
+  <ul>  
+    <li><a href="#">Redux</a></li>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
@@ -54,7 +54,13 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://react-capstone-project-05mk.onrender.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📹 The Video <a name="live-demo"></a>
+
+- [watch the video](https://www.loom.com/share/eb4858501848464898135a0f3d209bb5)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +122,7 @@ npx eslint . --fix
 
 - GitHub: [@Abd elhakim Zayan](https://github.com/abdozayan12)
 - Twitter: [@Abd elhakim Zayan](https://twitter.com/zayan_abdo)
-- LinkedIn: [@Abd elhakim Zayan](https://www.linkedin.com/in/htet-wai-yan-903354263/)
+- LinkedIn: [@Abd elhakim Zayan](https://www.linkedin.com/in/abdozayan/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,9 +132,8 @@ npx eslint . --fix
 
 
 
-- [x] I will test this app using the library from React or maybe use Jest to test it👌💯.
-- [x] Add the react-router dom for the project to navigate from the pages using the navigation
-- [x] Add the Quotes component to fetch the quotes from the API 🚀
+- [x] - Language Translation: Implement a feature that translates country information into different languages.
+- [x] Weather Information: Integrate weather data to display the current weather conditions or forecasts for the selected country's capital city.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

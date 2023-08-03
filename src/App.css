@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Lato", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.87);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  background-color: #ec4c8a;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.bg-main {
+  background-color: #ec4c8a;
+}
+
+.bg-sec {
+  background-color: #fd5294;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.details ul > li:nth-child(odd) {
+  background-color: #db4781;
+}
+
+.details ul > li:nth-child(even) {
+  background-color: #cc4074;
+}
+
+.general {
+  background-image: url(./assets/59-591407_world-map-png.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-blend-mode: soft-light;
+}
+
+@media (min-width: 640px) {
+  .countries-grid .country-box:nth-child(even) {
+    background-color: #db4781;
+  }
+
+  .countries-grid .country-box:nth-child(odd) {
+    background-color: #cc4074;
+  }
+}
