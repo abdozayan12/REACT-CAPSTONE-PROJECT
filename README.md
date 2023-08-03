@@ -60,7 +60,7 @@
 
 ## 📹 The Video <a name="live-demo"></a>
 
-- [watch the video](#)
+- [watch the video](https://www.loom.com/share/eb4858501848464898135a0f3d209bb5)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
